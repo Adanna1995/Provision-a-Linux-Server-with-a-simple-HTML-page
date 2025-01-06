@@ -82,5 +82,5 @@ Task 4: Networking
 - HTTP Traffic Configuration: We configured the security group to allow HTTP traffic on port 80.This was done in the security section of my instance.
 - Public IP Address: We obtained the public IP address of the server.
 
-
+public ip: 51.20.89.35
 
